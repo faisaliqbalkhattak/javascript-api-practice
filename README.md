@@ -17,4 +17,5 @@ This project demonstrates how to use an API for currency conversion using HTML, 
 
 1. Clone the repository.
 2. Open `index.html` in your browser.
-3. Enter the amount and select currencies to convert.
+3. Deployment Link: https://faisaliqbalkhattak.github.io/javascript-api-practice/
+4. Enter the amount and select currencies to convert.
